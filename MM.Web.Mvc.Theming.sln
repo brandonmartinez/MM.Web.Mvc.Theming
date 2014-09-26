@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MM.Web.Mvc.Theming", "MM.Web.Mvc.Theming\MM.Web.Mvc.Theming.csproj", "{1A531D50-C7DB-4C6C-BF07-612C40725F6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcThemingExample", "MvcThemingExample\MvcThemingExample.csproj", "{ADE72E63-13B7-40FD-9BE3-134FE24442C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A531D50-C7DB-4C6C-BF07-612C40725F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A531D50-C7DB-4C6C-BF07-612C40725F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A531D50-C7DB-4C6C-BF07-612C40725F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A531D50-C7DB-4C6C-BF07-612C40725F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADE72E63-13B7-40FD-9BE3-134FE24442C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE72E63-13B7-40FD-9BE3-134FE24442C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE72E63-13B7-40FD-9BE3-134FE24442C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE72E63-13B7-40FD-9BE3-134FE24442C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
